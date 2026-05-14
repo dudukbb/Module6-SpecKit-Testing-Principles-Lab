@@ -455,8 +455,3 @@ This project focuses primarily on:
 The goal is not UI deployment or production release, but rather demonstrating professional engineering validation practices using SpecKit and GitHub Copilot.
 
 ---
-
-# Author
-
-Dudu Kabakçı  
-EPAM AI Tech Bootcamp
